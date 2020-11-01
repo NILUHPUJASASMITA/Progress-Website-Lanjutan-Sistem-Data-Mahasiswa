@@ -1,0 +1,12 @@
+body{
+  background-color: #3f689c;
+}
+
+
+.container{
+  width: 30%;
+  margin-top: 9%;
+  box-shadow:0 3px 20px;
+  padding:40px;
+  background-color: aliceblue;
+}
